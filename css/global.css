@@ -23,6 +23,7 @@ body{background:#f5f5d5;}
 .baseInfo .title i,.baseInfo .title span{vertical-align: middle;}
 .name{margin:0;margin-top:10px;color:#fff;}
 .baseInfo .grayColor{color:#666;}
+.orangleColor{color:orangered;}
 .size{font-size:16px;}
 .size i{margin: 0 10px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;}
 .layout{margin:5px 0;}
